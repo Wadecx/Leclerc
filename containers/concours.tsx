@@ -48,7 +48,7 @@ export const Concours = () => {
             essentiels de l'été
           </h2>
           <p className="uppercase max-w-full md:max-w-[60%] text-black mt-8 text-xl px-2 md:px-0">
-            et si votre été commençait par une belle surprise ? jouer vite !
+            et si votre été commençait par une belle surprise ? jouez vite !
           </p>
         </div>
         <div className="w-full mt-8 ">

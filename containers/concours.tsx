@@ -35,7 +35,7 @@ export const Concours = () => {
       <div className="flex flex-col md:ml-8 2xl:ml-24 ml-0 px-6 md:px-0 mt-8 md:mt-0 items-center text-center md:text-left">
         <div className="flex flex-col items-center text-center md:items-center md:text-center mt-12">
           <Image
-            src="/images/icon_leclerc.png"
+            src="/Images/icon_leclerc.png"
             alt="Logo Leclerc Levallois"
             width={150}
             height={0}

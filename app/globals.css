@@ -14,7 +14,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #eeeeee;
+    --background: #fcf7f5;
     --foreground: #ededed;
   }
 }
@@ -32,6 +32,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.flame{
+.flame {
   font-family: "Flame", sans-serif;
 }
